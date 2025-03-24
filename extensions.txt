@@ -1,0 +1,8 @@
+VSCode Extensions:
+
+GitHub Copilot
+GitHub Copilot Chat
+Prettier
+Es7 + React/Redux/React-Native snippet
+Tailwind CSS Intellisense
+Tailwind Fold
